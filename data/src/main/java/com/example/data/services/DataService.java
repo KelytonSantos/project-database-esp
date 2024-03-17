@@ -29,6 +29,6 @@ public class DataService {
     }
 
     public void deleteAll() {
-        dataRepository.deleteAll();
+       dataRepository.deleteAll();
     }
 }
